@@ -1,0 +1,48 @@
+div#formCliente {
+    margin-left: 100px;
+ }
+
+div#listClientes{
+    margin-top: 20px;
+}
+
+body{
+    background-color: #F2F2F2;
+    font-family: 'Roboto', sans-serif;
+}
+
+.titulo{
+    font-size: 28px;
+    font-family: Roboto;
+    font-weight: 100;
+    color: rgba(0, 0, 0, 0.87);
+    height: 28px;
+    display: flex;
+    margin-left: 8px;
+    align-items: center
+} 
+.subtitulo{
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: lighter;
+    color: rgba(0, 0, 0, 0.87);
+    height: 8px;
+    display: flex;
+    margin-left: 8px;
+    align-items: center
+} 
+
+.botaoADireita{
+    float: right;
+}
+
+.cardElement{
+    width: 105%;
+    height: 130px;
+    margin-left: -3%;
+    padding-top: 50px;
+    padding-right: 40px;
+    padding-left: 40px;
+    position: relative;
+    margin-bottom: 2px;
+}
